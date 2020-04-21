@@ -1,0 +1,23 @@
+{
+  "name": "nodecourse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbartnicki/Backend-playground.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbartnicki/Backend-playground/issues"
+  },
+  "homepage": "https://github.com/sbartnicki/Backend-playground#readme",
+  "dependencies": {
+    "mongoose": "^5.9.9",
+    "underscore": "^1.10.2"
+  }
+}
